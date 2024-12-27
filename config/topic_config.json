@@ -3,5 +3,5 @@
 "retention_time":["1 hour","1 day","1 week","1 month","1 year","Infinite"],
 "enable_infinite_retention":["Y","N"],
 "retention_size":["1 MB","1 GB","1 TB","Infinite"],
-"message_size":2097164
+"message_size":209716
 }
