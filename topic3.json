@@ -1,1 +1,0 @@
-{"environment":"default","cluster":"my_testing_cluster_1","topic_name":"my-test-topic-1","partition_no":6,"cleanup_policy":"compact,delete","retention_time":"1 year","enable_infinite_retention":"N","retention_size":"1 TB","message_size":209716}

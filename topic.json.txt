@@ -1,5 +1,0 @@
-{
-  "topicName" : "test",
-  "partitionCount" : 6,
-  "config" : []
-}
